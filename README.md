@@ -1,8 +1,12 @@
 ================================================ Travel Blog — AWS Static Website
 PROJECT: Deploy Static Website on AWS 
+
+
 STUDENT: Devaraj A D
 
 WEBSITE URLS (Fill in after deployment)
+
+
 CloudFront Domain URL: https://dc8el6dmelcnx.cloudfront.net/
 
 S3 Website Endpoint URL: http://my-468688320862-bucket.s3-website-us-east-1.amazonaws.com/
@@ -60,6 +64,9 @@ IMPORTANT REMINDER
 After your project is graded and you receive a PASS: → Delete the CloudFront distribution → Empty and delete the S3 bucket
 
 CONTACT
+
+
+
 Name: Devaraj A D 
 Project: Udacity AWS Cloud Architect Nanodegree 
 Year: 2026
