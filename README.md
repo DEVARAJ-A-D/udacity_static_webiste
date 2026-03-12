@@ -1,5 +1,6 @@
 ================================================ Travel Blog — AWS Static Website
-PROJECT: Deploy Static Website on AWS STUDENT: Devaraj A D
+PROJECT: Deploy Static Website on AWS 
+STUDENT: Devaraj A D
 
 WEBSITE URLS (Fill in after deployment)
 CloudFront Domain URL: https://dc8el6dmelcnx.cloudfront.net/
@@ -47,10 +48,18 @@ Visit your CloudFront URL in a browser
 Visit your S3 website endpoint in a browser
 Both should show the Travel Blog website
 SCREENSHOTS TO TAKE (for submission)
-✅ Screenshot 1: S3 bucket created (visible in AWS Console) ✅ Screenshot 2: All files uploaded in the S3 bucket ✅ Screenshot 3: Static website hosting enabled (Properties tab) ✅ Screenshot 4: Bucket policy set (Permissions tab) ✅ Screenshot 5: CloudFront distribution created (status: Enabled) ✅ Screenshot 6: Website open in browser via CloudFront URL ✅ Screenshot 7: Website open in browser via S3 endpoint URL
+✅ Screenshot 1: S3 bucket created (visible in AWS Console) 
+✅ Screenshot 2: All files uploaded in the S3 bucket 
+✅ Screenshot 3: Static website hosting enabled (Properties tab) 
+✅ Screenshot 4: Bucket policy set (Permissions tab) 
+✅ Screenshot 5: CloudFront distribution created (status: Enabled) 
+✅ Screenshot 6: Website open in browser via CloudFront URL 
+✅ Screenshot 7: Website open in browser via S3 endpoint URL
 
 IMPORTANT REMINDER
 After your project is graded and you receive a PASS: → Delete the CloudFront distribution → Empty and delete the S3 bucket
 
 CONTACT
-Name: Devaraj A D Project: Udacity AWS Cloud Architect Nanodegree Year: 2026
+Name: Devaraj A D 
+Project: Udacity AWS Cloud Architect Nanodegree 
+Year: 2026
